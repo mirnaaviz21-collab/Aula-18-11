@@ -1,0 +1,3 @@
+Meu segundo texto
+Testando a sincronização com a AWS
+Agora estou editando diretamente pela AWS
